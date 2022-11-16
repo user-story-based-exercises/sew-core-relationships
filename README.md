@@ -1,7 +1,7 @@
 SEW | CORE | Relationships
 
 ## User Story 1
-*As an admin, I want to keep a list of artists, so that I can reference the atrists in the songs.*
+*As an admin, I want to keep a list of artists, so that I can reference the artists in the songs.*
 
 ### Acceptance Criteria
 - A list of already entered artists is available.
