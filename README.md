@@ -13,6 +13,3 @@ SEW | CORE | Relationships
 
 ### Acceptance Criteria
 - CRUD operations is possible for artists. 
-
-### Hint
-- Use a "Projection" to embed artist objects
